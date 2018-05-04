@@ -8266,8 +8266,7 @@ esac
 # This can be used to rebuild libtool when needed
 LIBTOOL_DEPS=$ltmain
 
-# Always use our own libtool.
-LIBTOOL='$(SHELL) $(top_builddir)/libtool'
+LIBTOOL='$(SHELL) libtool'
 
 
 
