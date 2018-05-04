@@ -24,6 +24,7 @@
 #include <rbtree.h>
 #include <scheduler.h>
 #include <string.h>
+#include <cstdint>
 /**
 	@author yingjin.qian <yingjin.qian@sun.com>
 */

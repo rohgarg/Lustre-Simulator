@@ -26,6 +26,7 @@
 #include <errno.h>
 #include <stdio.h>
 #include <stdarg.h>
+#include <cstddef>
 
 using namespace std;
 
