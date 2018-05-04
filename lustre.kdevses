@@ -1,0 +1,113 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<!DOCTYPE KDevPrjSession>
+<KDevPrjSession>
+ <DocsAndViews NumberOfDocuments="27" >
+  <Doc0 NumberOfViews="1" URL="file:///home/qian/NRS/devel/lustre/src/lustre.h" >
+   <View0 Type="Source" />
+  </Doc0>
+  <Doc1 NumberOfViews="1" URL="file:///home/qian/NRS/devel/lustre/src/lustre.cpp" >
+   <View0 Type="Source" />
+  </Doc1>
+  <Doc2 NumberOfViews="1" URL="file:///home/qian/NRS/devel/lustre/src/osc.h" >
+   <View0 Type="Source" />
+  </Doc2>
+  <Doc3 NumberOfViews="1" URL="file:///home/qian/NRS/devel/lustre/src/osc.cpp" >
+   <View0 Type="Source" />
+  </Doc3>
+  <Doc4 NumberOfViews="1" URL="file:///home/qian/NRS/devel/lustre/src/lov.h" >
+   <View0 Type="Source" />
+  </Doc4>
+  <Doc5 NumberOfViews="1" URL="file:///home/qian/NRS/devel/lustre/src/lov.cpp" >
+   <View0 Type="Source" />
+  </Doc5>
+  <Doc6 NumberOfViews="1" URL="file:///home/qian/NRS/devel/lustre/src/client.h" >
+   <View0 Type="Source" />
+  </Doc6>
+  <Doc7 NumberOfViews="1" URL="file:///home/qian/NRS/devel/lustre/src/client.cpp" >
+   <View0 Type="Source" />
+  </Doc7>
+  <Doc8 NumberOfViews="1" URL="file:///home/qian/NRS/devel/lustre/src/event.h" >
+   <View0 Type="Source" />
+  </Doc8>
+  <Doc9 NumberOfViews="1" URL="file:///home/qian/NRS/devel/lustre/src/event.cpp" >
+   <View0 Type="Source" />
+  </Doc9>
+  <Doc10 NumberOfViews="1" URL="file:///home/qian/NRS/devel/lustre/src/filesystem.h" >
+   <View0 Type="Source" />
+  </Doc10>
+  <Doc11 NumberOfViews="1" URL="file:///home/qian/NRS/devel/lustre/src/filesystem.cpp" >
+   <View0 Type="Source" />
+  </Doc11>
+  <Doc12 NumberOfViews="1" URL="file:///home/qian/NRS/devel/lustre/src/osd.h" >
+   <View0 Type="Source" />
+  </Doc12>
+  <Doc13 NumberOfViews="1" URL="file:///home/qian/NRS/devel/lustre/src/osd.cpp" >
+   <View0 Type="Source" />
+  </Doc13>
+  <Doc14 NumberOfViews="1" URL="file:///home/qian/NRS/devel/lustre/src/obd.h" >
+   <View0 Type="Source" />
+  </Doc14>
+  <Doc15 NumberOfViews="1" URL="file:///home/qian/NRS/devel/lustre/src/ost.h" >
+   <View0 Type="Source" />
+  </Doc15>
+  <Doc16 NumberOfViews="1" URL="file:///home/qian/NRS/devel/lustre/src/ost.cpp" >
+   <View0 Type="Source" />
+  </Doc16>
+  <Doc17 NumberOfViews="1" URL="file:///home/qian/NRS/devel/lustre/src/node.h" >
+   <View0 Type="Source" />
+  </Doc17>
+  <Doc18 NumberOfViews="1" URL="file:///home/qian/NRS/devel/lustre/src/node.cpp" >
+   <View0 Type="Source" />
+  </Doc18>
+  <Doc19 NumberOfViews="1" URL="file:///home/qian/NRS/devel/lustre/src/disk.h" >
+   <View0 Type="Source" />
+  </Doc19>
+  <Doc20 NumberOfViews="1" URL="file:///home/qian/NRS/devel/lustre/src/disk.cpp" >
+   <View0 Type="Source" />
+  </Doc20>
+  <Doc21 NumberOfViews="1" URL="file:///home/qian/NRS/devel/lustre/src/blockdevice.h" >
+   <View0 Type="Source" />
+  </Doc21>
+  <Doc22 NumberOfViews="1" URL="file:///home/qian/NRS/devel/lustre/src/scheduler.h" >
+   <View0 Type="Source" />
+  </Doc22>
+  <Doc23 NumberOfViews="1" URL="file:///home/qian/NRS/devel/lustre/src/scheduler.cpp" >
+   <View0 Type="Source" />
+  </Doc23>
+  <Doc24 NumberOfViews="1" URL="file:///home/qian/NRS/devel/lustre/src/elevator.cpp" >
+   <View0 Type="Source" />
+  </Doc24>
+  <Doc25 NumberOfViews="1" URL="file:///home/qian/NRS/devel/lustre/src/elevator.h" >
+   <View0 Type="Source" />
+  </Doc25>
+  <Doc26 NumberOfViews="1" URL="file:///home/qian/NRS/devel/lustre/src/cluster.cpp" >
+   <View0 line="88" Type="Source" />
+  </Doc26>
+ </DocsAndViews>
+ <pluginList>
+  <kdevdebugger>
+   <breakpointList>
+    <breakpoint0 location="/home/qian/NRS/devel/lustre/src/filesystem.cpp:164" type="1" tracingFormatString="" traceFormatStringEnabled="0" condition="" tracingEnabled="0" enabled="1" >
+     <tracedExpressions/>
+    </breakpoint0>
+   </breakpointList>
+  </kdevdebugger>
+  <kdevbookmarks>
+   <bookmarks>
+    <bookmark url="/home/qian/NRS/devel/lustre/src/client.h" >
+     <mark line="90" />
+    </bookmark>
+    <bookmark url="/home/qian/NRS/devel/lustre/src/raid0device.cpp" >
+     <mark line="80" />
+     <mark line="81" />
+    </bookmark>
+   </bookmarks>
+  </kdevbookmarks>
+  <kdevvalgrind>
+   <executable path="" params="" />
+   <valgrind path="" params="" />
+   <calltree path="" params="" />
+   <kcachegrind path="" />
+  </kdevvalgrind>
+ </pluginList>
+</KDevPrjSession>
