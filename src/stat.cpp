@@ -26,7 +26,7 @@ Stat::Stat()
 	file = NULL;
 }
 
-Stat::Stat(char *s)
+Stat::Stat(const char *s)
 {
 	cnt = 0;
 	Init(s);
@@ -38,7 +38,7 @@ Stat::~Stat()
 		fclose(file);
 }
 
-int Stat::Init(char *s)
+int Stat::Init(const char *s)
 {
 	strncpy(name, s, MAX_NAME_LEN);
 	

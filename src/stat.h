@@ -32,10 +32,10 @@ class Stat
 	char name[MAX_NAME_LEN];
 public:
 	Stat();
-	Stat(char *s);
+	Stat(const char *s);
 	~Stat();
 
-	int Init(char *s);
+	int Init(const char *s);
 	void Record(const char *fmt...);
 };
 

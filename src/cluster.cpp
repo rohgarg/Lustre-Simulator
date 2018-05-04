@@ -29,7 +29,7 @@ Cluster::Cluster()
 	__dbg = 1;
 }
 
-Cluster::Cluster(char *s)
+Cluster::Cluster(const char *s)
 	: Device()
 {
 	__dbg = 1;

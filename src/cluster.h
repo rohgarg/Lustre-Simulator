@@ -29,7 +29,7 @@ class Cluster : public Device
 {
 public:
 	Cluster();
-	Cluster(char *name);
+	Cluster(const char *name);
 	~Cluster();
 
 	void Start();
